@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/payin_fiifi" target="blank"><img src="https://img.shields.io/twitter/follow/payin_fiifi?logo=twitter&style=for-the-badge" alt="payin_fiifi" /></a> </p>
 
-- 🌱 I’m currently learning **django**
-
 - 📫 How to reach me **fiifipayin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
