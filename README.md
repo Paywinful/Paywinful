@@ -90,4 +90,3 @@
 > “Building technology that solves real problems, empowers people, and creates impact.”
 :::
 
-The important thing: **paste only the content inside the writing block**, not any ```html or ``` marks.
