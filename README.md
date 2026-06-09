@@ -84,25 +84,7 @@
 - Healthcare AI
 - Human-Computer Interaction
 
----
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paywinful&show_icons=true&locale=en&layout=compact" alt="paywinful" />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paywinful&show_icons=true&locale=en" alt="paywinful" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paywinful" alt="paywinful" />
-</p>
-
----
 
 ### ✨ Personal Mission
 
