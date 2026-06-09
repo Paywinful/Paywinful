@@ -1,5 +1,4 @@
 
-:::writing{variant="standard" id="61583"}
 ![MasterHead](https://wallpaperaccess.com/full/796847.jpg)
 
 <h1 align="center">Hi 👋, I'm Payin Winful</h1>
