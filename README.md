@@ -88,5 +88,3 @@
 ### ✨ Personal Mission
 
 > “Building technology that solves real problems, empowers people, and creates impact.”
-:::
-
